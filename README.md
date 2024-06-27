@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm ADEM ONUR KOLAYLI</h1>
+<h1 align="center">Hi 👋, I'm ADEM ONUR KOLAU</h1>
 <h3 align="center">I am a candidate to learn full-stack software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ademck&label=Profile%20views&color=0e75b6&style=flat" alt="ademck" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ademck" alt="ademck" /></a> </p>
 
 - 🔭 I’m currently working on [TourismAgencySystem](https://github.com/ADEMCK/TourismAgencySystem)
 
 - 🌱 I’m currently learning **Full stack software engineering at Patika.dev**
 
-- 👯 I’m looking to collaborate on [MineSweeperProject](https://github.com/ADEMCK/MineSweeperProject)
-
-- 🤝 I’m looking for help with learning coding together [Cohort-4A_Patika](https://github.com/ADEMCK/Cohort-4A_Patika)
+- 👯 I’m looking to collaborate on **App Store**
 
 - 💬 Ask me about **Hardwere stuff like electronics**
 
